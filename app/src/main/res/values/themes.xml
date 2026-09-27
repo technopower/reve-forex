@@ -1,0 +1,1 @@
+<resources><style name="Theme.REVEFOREX" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:navigationBarColor">#080D18</item><item name="android:statusBarColor">#080D18</item></style></resources>

@@ -1,0 +1,7 @@
+#Sun Sep 27 09:47:09 BDT 2026
+base.1=J\:\\REVE_FOREX_FULL_UPDATED\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
+path.1=9/classes.dex
+base.0=J\:\\REVE_FOREX_FULL_UPDATED\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

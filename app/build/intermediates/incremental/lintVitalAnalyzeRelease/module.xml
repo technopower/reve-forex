@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="J:\REVE_FOREX_FULL_UPDATED\app"
+    name=":app"
+    type="APP"
+    maven="REVE_FOREX_V12:app:unspecified"
+    agpVersion="8.13.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\User\AppData\Local\Android\Sdk\platforms\android-36\android.jar;C:\Users\User\AppData\Local\Android\Sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

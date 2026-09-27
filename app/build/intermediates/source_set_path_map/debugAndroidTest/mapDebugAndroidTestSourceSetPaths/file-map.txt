@@ -1,0 +1,5 @@
+com.reve.forex.test.app-androidTest-0 J:\REVE_FOREX_FULL_UPDATED\app\build\generated\res\resValues\androidTest\debug
+com.reve.forex.test.app-updated_navigation_xml-1 J:\REVE_FOREX_FULL_UPDATED\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.reve.forex.test.app-mergeDebugAndroidTestResources-2 J:\REVE_FOREX_FULL_UPDATED\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.reve.forex.test.app-mergeDebugAndroidTestResources-3 J:\REVE_FOREX_FULL_UPDATED\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.reve.forex.test.app-debugAndroidTest-4 J:\REVE_FOREX_FULL_UPDATED\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

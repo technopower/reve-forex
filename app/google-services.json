@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "912673806529",
+    "project_id": "reve-genie-ai",
+    "storage_bucket": "reve-genie-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912673806529:android:d7ab3dad545628f9cadc40",
+        "android_client_info": {
+          "package_name": "com.reve.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtASBPJAku_lEcSDUsHuWV_fNHbnWMBXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912673806529:android:7d6218cbaa0d2bd1cadc40",
+        "android_client_info": {
+          "package_name": "com.reve.forex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtASBPJAku_lEcSDUsHuWV_fNHbnWMBXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912673806529:android:f872662ddd8556d3cadc40",
+        "android_client_info": {
+          "package_name": "com.reve.genie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912673806529-ae5k4ghr3d9hf46j89hpah5b58024ta4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reve.genie",
+            "certificate_hash": "f8fef22a32d4a6faecc8eed12228d6716b928a50"
+          }
+        },
+        {
+          "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtASBPJAku_lEcSDUsHuWV_fNHbnWMBXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912673806529-7ivkhcgiv6jpovkbmp8ifp1gk7cf8eg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
